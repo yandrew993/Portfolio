@@ -8,36 +8,31 @@ const questionBank = [
     answer: "Andrew Young",
   },
   {
-    question: "Which county i'm I coming from ?",
-    option: ["Siaya", "Migori", "Kisumu", "Kajiado"],
-    answer: "Kisumu",
-  },
-  {
-    question: "Hey! can you guess my actual age? If yes please select",
-    option: ["26 years", "23 years", "19 years", "22 years"],
-    answer: "23 years",
+    question: "What is my approximate height ?",
+    option: ["1.69m", "1.74m", "1.81m", "1.92m"],
+    answer: "1.81m",
   },
   {
     question:
-      "Currently i'm a student in Kirinyaga university taking Bachelor of Science in?",
-    option: [
-      "Computer Science",
-      "Education",
-      "Software Engineering",
-      "Information Technology",
-    ],
-    answer: "Software Engineering",
+      "Hey! can you guess my actual age suppose i was borned 20 years ago? ",
+    option: ["26 years", "23 years", "19 years", "20 years"],
+    answer: "20 years",
+  },
+  {
+    question: "Predict the range of my weight for the last four years?",
+    option: ["(60 - 66)Kg", "(54 - 60)Kg", "(66 - 70)Kg", "(71 - 74)Kg"],
+    answer: "(66 - 70)Kg",
   },
   {
     question:
-      "I'M a fun of one of the big clubs in London. Which club could it be?",
+      "i'm a fun of one of the big clubs in London. Which club could it be?",
     option: ["Manchester City", "Arsenal", "Chelsea", "Manchester United"],
     answer: "Manchester United",
   },
   {
-    question: "I'M a Kenyan citizen from which tribe?",
-    option: ["Kalenjin", "Luo", "Kamba", "Kikuyu"],
-    answer: "Luo",
+    question: "What is my favourite meal?",
+    option: ["Fish", "Pizza", "Hot Dog", "Beef"],
+    answer: "Fish",
   },
 
   {
@@ -46,10 +41,14 @@ const questionBank = [
     answer: "Single",
   },
   {
-    question:
-      "Which of these drinks do you think I like most and I frequently take?",
-    option: ["Coca-cola", "Wiskey", "Chrome", "Water"],
-    answer: "Water",
+    question: "Predict my favourite hobby?",
+    option: ["Playing Karate", "Praying", "Watching Football", "Reading"],
+    answer: "Watching Football",
+  },
+  {
+    question: "What is my religion?",
+    option: ["Budhist", "Muslim", "Roman Catholic", "Christian"],
+    answer: "Roman Catholic",
   },
 ];
 
